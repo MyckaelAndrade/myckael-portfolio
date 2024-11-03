@@ -14,13 +14,13 @@ Olá! Sou um apaixonado por tecnologia e desenvolvimento pessoal. Estou sempre e
 
 ## 🛠️ Projetos
 ### [DCW-cursos](https://github.com/MyckaelAndrade/dcw-cursos)
-Descrição breve do projeto e suas principais funcionalidades.
+Plataforma de cursos.
 
 ### [Jogo Da Memória](https://github.com/MyckaelAndrade/jogo-memoria-com-js)
-Descrição breve do projeto e suas principais funcionalidades.
+atividade que desafia os jogadores a encontrar pares de cartas idênticas. O tabuleiro é formado por cartas viradas para baixo, e o objetivo é lembrar a localização das cartas enquanto você as vira em busca de correspondências.
 
 ### [Mundo Invertido](https://github.com/MyckaelAndrade/inverted-world)
-Descrição breve do projeto e suas principais funcionalidades.
+site inspirado na famosa série Stranger Things, projetado para transportar os visitantes para uma dimensão paralela repleta de mistérios e aventuras.
 
 ## 📫 Contato
 Você pode me encontrar em:
